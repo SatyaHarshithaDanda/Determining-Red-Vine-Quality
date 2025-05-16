@@ -64,7 +64,7 @@ The dataset includes information on red wine samples with the following features
 ## ▶️ How to Run
 
 1. Clone the repository or download the `.ipynb` file.
-2. 2. Install the required dependencies:
+2. Install the required dependencies:
    ```bash
    pip install pandas numpy matplotlib seaborn scikit-learn
    ```
