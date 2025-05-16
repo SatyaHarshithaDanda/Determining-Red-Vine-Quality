@@ -64,9 +64,9 @@ The dataset includes information on red wine samples with the following features
 ## ▶️ How to Run
 
 1. Clone the repository or download the `.ipynb` file.
-2. Install the required dependencies:
+2. 2. Install the required dependencies:
    ```bash
    pip install pandas numpy matplotlib seaborn scikit-learn
    ```
-3.Open Determining Red Wine Quality.ipynb in Jupyter Notebook.
+3. Open Determining Red Wine Quality.ipynb in Jupyter Notebook.
 4. Run the notebook to see data analysis, visualizations, and model results.
